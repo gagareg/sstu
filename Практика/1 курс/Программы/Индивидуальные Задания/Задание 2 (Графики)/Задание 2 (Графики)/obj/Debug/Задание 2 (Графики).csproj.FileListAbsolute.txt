@@ -1,0 +1,15 @@
+c:\users\gagar\documents\visual studio 2015\Projects\Задание 2 (Графики)\Задание 2 (Графики)\bin\Debug\Задание 2 (Графики).exe.config
+c:\users\gagar\documents\visual studio 2015\Projects\Задание 2 (Графики)\Задание 2 (Графики)\obj\Debug\Задание 2 (Графики).csprojResolveAssemblyReference.cache
+c:\users\gagar\documents\visual studio 2015\Projects\Задание 2 (Графики)\Задание 2 (Графики)\bin\Debug\Задание 2 (Графики).exe
+c:\users\gagar\documents\visual studio 2015\Projects\Задание 2 (Графики)\Задание 2 (Графики)\bin\Debug\Задание 2 (Графики).pdb
+c:\users\gagar\documents\visual studio 2015\Projects\Задание 2 (Графики)\Задание 2 (Графики)\obj\Debug\Задание 2 (Графики).exe
+c:\users\gagar\documents\visual studio 2015\Projects\Задание 2 (Графики)\Задание 2 (Графики)\obj\Debug\Задание 2 (Графики).pdb
+C:\Users\gagar\Desktop\C sharp\Индивидуальные Задания\Задание 2 (Графики)\Задание 2 (Графики)\bin\Debug\Задание 2 (Графики).exe.config
+C:\Users\gagar\Desktop\C sharp\Индивидуальные Задания\Задание 2 (Графики)\Задание 2 (Графики)\obj\Debug\Задание 2 (Графики).exe
+C:\Users\gagar\Desktop\C sharp\Индивидуальные Задания\Задание 2 (Графики)\Задание 2 (Графики)\obj\Debug\Задание 2 (Графики).pdb
+C:\Users\gagar\Desktop\C sharp\Индивидуальные Задания\Задание 2 (Графики)\Задание 2 (Графики)\bin\Debug\Задание 2 (Графики).exe
+C:\Users\gagar\Desktop\C sharp\Индивидуальные Задания\Задание 2 (Графики)\Задание 2 (Графики)\bin\Debug\Задание 2 (Графики).pdb
+C:\Users\gagar\Desktop\C sharp\Индивидуальные Задания\Задание 2 (Графики)\Задание 2 (Графики)\obj\Debug\Задание 2 (Графики).csprojResolveAssemblyReference.cache
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Индивидуальные Задания\Задание 2 (Графики)\Задание 2 (Графики)\bin\Debug\Задание 2 (Графики).exe.config
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Индивидуальные Задания\Задание 2 (Графики)\Задание 2 (Графики)\obj\Debug\Задание 2 (Графики).exe
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Индивидуальные Задания\Задание 2 (Графики)\Задание 2 (Графики)\obj\Debug\Задание 2 (Графики).pdb

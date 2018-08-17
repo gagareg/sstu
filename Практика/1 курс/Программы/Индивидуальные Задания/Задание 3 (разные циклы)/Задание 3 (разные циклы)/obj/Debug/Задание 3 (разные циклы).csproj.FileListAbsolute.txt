@@ -1,0 +1,15 @@
+c:\users\gagar\documents\visual studio 2015\Projects\Задание 3 (разные циклы)\Задание 3 (разные циклы)\bin\Debug\Задание 3 (разные циклы).exe.config
+c:\users\gagar\documents\visual studio 2015\Projects\Задание 3 (разные циклы)\Задание 3 (разные циклы)\bin\Debug\Задание 3 (разные циклы).exe
+c:\users\gagar\documents\visual studio 2015\Projects\Задание 3 (разные циклы)\Задание 3 (разные циклы)\bin\Debug\Задание 3 (разные циклы).pdb
+c:\users\gagar\documents\visual studio 2015\Projects\Задание 3 (разные циклы)\Задание 3 (разные циклы)\obj\Debug\Задание 3 (разные циклы).csprojResolveAssemblyReference.cache
+c:\users\gagar\documents\visual studio 2015\Projects\Задание 3 (разные циклы)\Задание 3 (разные циклы)\obj\Debug\Задание 3 (разные циклы).exe
+c:\users\gagar\documents\visual studio 2015\Projects\Задание 3 (разные циклы)\Задание 3 (разные циклы)\obj\Debug\Задание 3 (разные циклы).pdb
+C:\Users\gagar\Desktop\C sharp\Индивидуальные Задания\Задание 3 (разные циклы)\Задание 3 (разные циклы)\bin\Debug\Задание 3 (разные циклы).exe.config
+C:\Users\gagar\Desktop\C sharp\Индивидуальные Задания\Задание 3 (разные циклы)\Задание 3 (разные циклы)\obj\Debug\Задание 3 (разные циклы).exe
+C:\Users\gagar\Desktop\C sharp\Индивидуальные Задания\Задание 3 (разные циклы)\Задание 3 (разные циклы)\obj\Debug\Задание 3 (разные циклы).pdb
+C:\Users\gagar\Desktop\C sharp\Индивидуальные Задания\Задание 3 (разные циклы)\Задание 3 (разные циклы)\bin\Debug\Задание 3 (разные циклы).exe
+C:\Users\gagar\Desktop\C sharp\Индивидуальные Задания\Задание 3 (разные циклы)\Задание 3 (разные циклы)\bin\Debug\Задание 3 (разные циклы).pdb
+C:\Users\gagar\Desktop\C sharp\Индивидуальные Задания\Задание 3 (разные циклы)\Задание 3 (разные циклы)\obj\Debug\Задание 3 (разные циклы).csprojResolveAssemblyReference.cache
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Индивидуальные Задания\Задание 3 (разные циклы)\Задание 3 (разные циклы)\bin\Debug\Задание 3 (разные циклы).exe.config
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Индивидуальные Задания\Задание 3 (разные циклы)\Задание 3 (разные циклы)\obj\Debug\Задание 3 (разные циклы).exe
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Индивидуальные Задания\Задание 3 (разные циклы)\Задание 3 (разные циклы)\obj\Debug\Задание 3 (разные циклы).pdb

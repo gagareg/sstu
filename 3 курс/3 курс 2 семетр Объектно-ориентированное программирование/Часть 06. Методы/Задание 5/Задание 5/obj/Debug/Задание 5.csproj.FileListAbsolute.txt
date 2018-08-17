@@ -1,0 +1,7 @@
+C:\Users\Microalab\source\repos\Задание 5\Задание 5\bin\Debug\Задание 5.exe.config
+C:\Users\Microalab\source\repos\Задание 5\Задание 5\bin\Debug\Задание 5.exe
+C:\Users\Microalab\source\repos\Задание 5\Задание 5\bin\Debug\Задание 5.pdb
+C:\Users\Microalab\source\repos\Задание 5\Задание 5\obj\Debug\Задание 5.csprojResolveAssemblyReference.cache
+C:\Users\Microalab\source\repos\Задание 5\Задание 5\obj\Debug\Задание 5.csproj.CoreCompileInputs.cache
+C:\Users\Microalab\source\repos\Задание 5\Задание 5\obj\Debug\Задание 5.exe
+C:\Users\Microalab\source\repos\Задание 5\Задание 5\obj\Debug\Задание 5.pdb

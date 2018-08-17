@@ -1,0 +1,5 @@
+/home/gagareg/Projects/CM-M-2/CM-M-2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gagareg/Projects/CM-M-2/CM-M-2/bin/Debug/CM-M-2.pdb
+/home/gagareg/Projects/CM-M-2/CM-M-2/bin/Debug/CM-M-2.exe
+/home/gagareg/Projects/CM-M-2/CM-M-2/obj/x86/Debug/CM-M-2.exe
+/home/gagareg/Projects/CM-M-2/CM-M-2/obj/x86/Debug/CM-M-2.pdb

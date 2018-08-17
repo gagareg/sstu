@@ -1,0 +1,11 @@
+c:\users\gagar\documents\visual studio 2015\Projects\88\88\bin\Debug\88.exe.config
+c:\users\gagar\documents\visual studio 2015\Projects\88\88\bin\Debug\88.exe
+c:\users\gagar\documents\visual studio 2015\Projects\88\88\bin\Debug\88.pdb
+c:\users\gagar\documents\visual studio 2015\Projects\88\88\obj\Debug\88.exe
+c:\users\gagar\documents\visual studio 2015\Projects\88\88\obj\Debug\88.pdb
+C:\Users\gagar\Desktop\C sharp\88\88\88\bin\Debug\88.exe.config
+C:\Users\gagar\Desktop\C sharp\88\88\88\obj\Debug\88.exe
+C:\Users\gagar\Desktop\C sharp\88\88\88\obj\Debug\88.pdb
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\88\88\88\bin\Debug\88.exe.config
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\88\88\88\obj\Debug\88.exe
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\88\88\88\obj\Debug\88.pdb

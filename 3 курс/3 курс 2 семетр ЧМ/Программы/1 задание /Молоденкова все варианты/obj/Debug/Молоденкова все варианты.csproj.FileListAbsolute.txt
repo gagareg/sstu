@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Молоденкова все варианты\Молоденкова все варианты\bin\Debug\Молоденкова все варианты.exe.config
+C:\Users\User\source\repos\Молоденкова все варианты\Молоденкова все варианты\bin\Debug\Молоденкова все варианты.exe
+C:\Users\User\source\repos\Молоденкова все варианты\Молоденкова все варианты\bin\Debug\Молоденкова все варианты.pdb
+C:\Users\User\source\repos\Молоденкова все варианты\Молоденкова все варианты\obj\Debug\Молоденкова все варианты.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Молоденкова все варианты\Молоденкова все варианты\obj\Debug\Молоденкова все варианты.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Молоденкова все варианты\Молоденкова все варианты\obj\Debug\Молоденкова все варианты.exe
+C:\Users\User\source\repos\Молоденкова все варианты\Молоденкова все варианты\obj\Debug\Молоденкова все варианты.pdb

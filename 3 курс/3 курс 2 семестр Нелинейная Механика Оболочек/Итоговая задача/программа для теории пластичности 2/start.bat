@@ -1,0 +1,1 @@
+start beam_fn_gl_zsh_iu_es_2_45_lam_50.exe -@ q.opt

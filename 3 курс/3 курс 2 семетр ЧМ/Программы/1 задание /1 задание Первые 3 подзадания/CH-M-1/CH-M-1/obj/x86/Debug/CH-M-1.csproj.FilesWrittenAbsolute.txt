@@ -1,0 +1,5 @@
+/home/gagareg/Projects/CH-M-1/CH-M-1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gagareg/Projects/CH-M-1/CH-M-1/bin/Debug/CH-M-1.pdb
+/home/gagareg/Projects/CH-M-1/CH-M-1/bin/Debug/CH-M-1.exe
+/home/gagareg/Projects/CH-M-1/CH-M-1/obj/x86/Debug/CH-M-1.exe
+/home/gagareg/Projects/CH-M-1/CH-M-1/obj/x86/Debug/CH-M-1.pdb

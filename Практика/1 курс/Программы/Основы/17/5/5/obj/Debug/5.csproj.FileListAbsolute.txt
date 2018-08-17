@@ -1,0 +1,11 @@
+c:\users\gagar\documents\visual studio 2015\Projects\5\5\bin\Debug\5.exe.config
+c:\users\gagar\documents\visual studio 2015\Projects\5\5\bin\Debug\5.exe
+c:\users\gagar\documents\visual studio 2015\Projects\5\5\bin\Debug\5.pdb
+c:\users\gagar\documents\visual studio 2015\Projects\5\5\obj\Debug\5.exe
+c:\users\gagar\documents\visual studio 2015\Projects\5\5\obj\Debug\5.pdb
+C:\Users\gagar\Desktop\C sharp\17\5\5\bin\Debug\5.exe.config
+C:\Users\gagar\Desktop\C sharp\17\5\5\obj\Debug\5.exe
+C:\Users\gagar\Desktop\C sharp\17\5\5\obj\Debug\5.pdb
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\17\5\5\bin\Debug\5.exe.config
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\17\5\5\obj\Debug\5.exe
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\17\5\5\obj\Debug\5.pdb

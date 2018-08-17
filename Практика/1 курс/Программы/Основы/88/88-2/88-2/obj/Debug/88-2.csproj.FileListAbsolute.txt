@@ -1,0 +1,15 @@
+c:\users\gagar\documents\visual studio 2015\Projects\88-2\88-2\bin\Debug\88-2.exe.config
+c:\users\gagar\documents\visual studio 2015\Projects\88-2\88-2\bin\Debug\88-2.exe
+c:\users\gagar\documents\visual studio 2015\Projects\88-2\88-2\bin\Debug\88-2.pdb
+c:\users\gagar\documents\visual studio 2015\Projects\88-2\88-2\obj\Debug\88-2.csprojResolveAssemblyReference.cache
+c:\users\gagar\documents\visual studio 2015\Projects\88-2\88-2\obj\Debug\88-2.exe
+c:\users\gagar\documents\visual studio 2015\Projects\88-2\88-2\obj\Debug\88-2.pdb
+C:\Users\gagar\Desktop\C sharp\88\88-2\88-2\bin\Debug\88-2.exe.config
+C:\Users\gagar\Desktop\C sharp\88\88-2\88-2\obj\Debug\88-2.exe
+C:\Users\gagar\Desktop\C sharp\88\88-2\88-2\obj\Debug\88-2.pdb
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\88\88-2\88-2\bin\Debug\88-2.exe.config
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\88\88-2\88-2\obj\Debug\88-2.exe
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\88\88-2\88-2\obj\Debug\88-2.pdb
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\88\88-2\88-2\bin\Debug\88-2.exe
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\88\88-2\88-2\bin\Debug\88-2.pdb
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\88\88-2\88-2\obj\Debug\88-2.csprojResolveAssemblyReference.cache

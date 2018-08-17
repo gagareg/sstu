@@ -1,0 +1,14 @@
+C:\Users\Microalab\source\repos\Потоки 2\Потоки 2\bin\Debug\Потоки 2.exe.config
+C:\Users\Microalab\source\repos\Потоки 2\Потоки 2\bin\Debug\Потоки 2.exe
+C:\Users\Microalab\source\repos\Потоки 2\Потоки 2\bin\Debug\Потоки 2.pdb
+C:\Users\Microalab\source\repos\Потоки 2\Потоки 2\obj\Debug\Потоки 2.csprojResolveAssemblyReference.cache
+C:\Users\Microalab\source\repos\Потоки 2\Потоки 2\obj\Debug\Потоки 2.csproj.CoreCompileInputs.cache
+C:\Users\Microalab\source\repos\Потоки 2\Потоки 2\obj\Debug\Потоки 2.exe
+C:\Users\Microalab\source\repos\Потоки 2\Потоки 2\obj\Debug\Потоки 2.pdb
+C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки 2\Потоки 2\bin\Debug\Потоки 2.exe.config
+C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки 2\Потоки 2\bin\Debug\Потоки 2.exe
+C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки 2\Потоки 2\bin\Debug\Потоки 2.pdb
+C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки 2\Потоки 2\obj\Debug\Потоки 2.csprojResolveAssemblyReference.cache
+C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки 2\Потоки 2\obj\Debug\Потоки 2.csproj.CoreCompileInputs.cache
+C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки 2\Потоки 2\obj\Debug\Потоки 2.exe
+C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки 2\Потоки 2\obj\Debug\Потоки 2.pdb

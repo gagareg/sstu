@@ -1,0 +1,14 @@
+C:\Users\gagareg\source\repos\Задача 6\Задача 6\bin\Debug\Задача 6.exe.config
+C:\Users\gagareg\source\repos\Задача 6\Задача 6\bin\Debug\Задача 6.exe
+C:\Users\gagareg\source\repos\Задача 6\Задача 6\bin\Debug\Задача 6.pdb
+C:\Users\gagareg\source\repos\Задача 6\Задача 6\obj\Debug\Задача 6.csprojResolveAssemblyReference.cache
+C:\Users\gagareg\source\repos\Задача 6\Задача 6\obj\Debug\Задача 6.csproj.CoreCompileInputs.cache
+C:\Users\gagareg\source\repos\Задача 6\Задача 6\obj\Debug\Задача 6.exe
+C:\Users\gagareg\source\repos\Задача 6\Задача 6\obj\Debug\Задача 6.pdb
+C:\Users\gagareg\Desktop\Программирование Ершов\Массивы\Задание 6\Задача 6\bin\Debug\Задача 6.exe.config
+C:\Users\gagareg\Desktop\Программирование Ершов\Массивы\Задание 6\Задача 6\bin\Debug\Задача 6.exe
+C:\Users\gagareg\Desktop\Программирование Ершов\Массивы\Задание 6\Задача 6\bin\Debug\Задача 6.pdb
+C:\Users\gagareg\Desktop\Программирование Ершов\Массивы\Задание 6\Задача 6\obj\Debug\Задача 6.csprojResolveAssemblyReference.cache
+C:\Users\gagareg\Desktop\Программирование Ершов\Массивы\Задание 6\Задача 6\obj\Debug\Задача 6.csproj.CoreCompileInputs.cache
+C:\Users\gagareg\Desktop\Программирование Ершов\Массивы\Задание 6\Задача 6\obj\Debug\Задача 6.exe
+C:\Users\gagareg\Desktop\Программирование Ершов\Массивы\Задание 6\Задача 6\obj\Debug\Задача 6.pdb

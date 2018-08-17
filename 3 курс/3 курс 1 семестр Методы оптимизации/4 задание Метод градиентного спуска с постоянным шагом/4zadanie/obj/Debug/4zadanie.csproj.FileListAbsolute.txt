@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\4zadanie\4zadanie\obj\Debug\4zadanie.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\4zadanie\4zadanie\obj\Debug\4zadanie.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\4zadanie\4zadanie\bin\Debug\4zadanie.exe.config
+C:\Users\User\source\repos\4zadanie\4zadanie\bin\Debug\4zadanie.exe
+C:\Users\User\source\repos\4zadanie\4zadanie\bin\Debug\4zadanie.pdb
+C:\Users\User\source\repos\4zadanie\4zadanie\obj\Debug\4zadanie.exe
+C:\Users\User\source\repos\4zadanie\4zadanie\obj\Debug\4zadanie.pdb
+C:\Users\gagareg\Desktop\4zadanie\4zadanie\bin\Debug\4zadanie.exe.config
+C:\Users\gagareg\Desktop\4zadanie\4zadanie\bin\Debug\4zadanie.exe
+C:\Users\gagareg\Desktop\4zadanie\4zadanie\bin\Debug\4zadanie.pdb
+C:\Users\gagareg\Desktop\4zadanie\4zadanie\obj\Debug\4zadanie.csprojResolveAssemblyReference.cache
+C:\Users\gagareg\Desktop\4zadanie\4zadanie\obj\Debug\4zadanie.csproj.CoreCompileInputs.cache
+C:\Users\gagareg\Desktop\4zadanie\4zadanie\obj\Debug\4zadanie.exe
+C:\Users\gagareg\Desktop\4zadanie\4zadanie\obj\Debug\4zadanie.pdb

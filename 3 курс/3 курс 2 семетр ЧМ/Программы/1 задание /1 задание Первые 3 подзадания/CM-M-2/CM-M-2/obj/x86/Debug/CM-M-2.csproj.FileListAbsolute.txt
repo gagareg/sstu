@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\CM-M-2\CM-M-2\bin\Debug\CM-M-2.exe
+C:\Users\User\Desktop\CM-M-2\CM-M-2\bin\Debug\CM-M-2.pdb
+C:\Users\User\Desktop\CM-M-2\CM-M-2\obj\x86\Debug\CM-M-2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CM-M-2\CM-M-2\obj\x86\Debug\CM-M-2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CM-M-2\CM-M-2\obj\x86\Debug\CM-M-2.exe
+C:\Users\User\Desktop\CM-M-2\CM-M-2\obj\x86\Debug\CM-M-2.pdb

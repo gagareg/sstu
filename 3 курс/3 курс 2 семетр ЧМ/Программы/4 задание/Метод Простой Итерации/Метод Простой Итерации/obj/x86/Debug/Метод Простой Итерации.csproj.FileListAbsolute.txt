@@ -1,0 +1,9 @@
+C:\Users\150058\AppData\Local\Temporary Projects\Метод Простой Итерации\bin\Debug\Метод Простой Итерации.exe
+C:\Users\150058\AppData\Local\Temporary Projects\Метод Простой Итерации\bin\Debug\Метод Простой Итерации.pdb
+C:\Users\150058\AppData\Local\Temporary Projects\Метод Простой Итерации\obj\x86\Debug\Метод Простой Итерации.exe
+C:\Users\150058\AppData\Local\Temporary Projects\Метод Простой Итерации\obj\x86\Debug\Метод Простой Итерации.pdb
+C:\Users\150058\documents\visual studio 2010\Projects\Метод Простой Итерации\Метод Простой Итерации\obj\x86\Debug\Метод Простой Итерации.exe
+C:\Users\150058\documents\visual studio 2010\Projects\Метод Простой Итерации\Метод Простой Итерации\obj\x86\Debug\Метод Простой Итерации.pdb
+C:\Users\150058\documents\visual studio 2010\Projects\Метод Простой Итерации\Метод Простой Итерации\bin\Debug\Метод Простой Итерации.exe
+C:\Users\150058\documents\visual studio 2010\Projects\Метод Простой Итерации\Метод Простой Итерации\bin\Debug\Метод Простой Итерации.pdb
+C:\Users\150058\documents\visual studio 2010\Projects\Метод Простой Итерации\Метод Простой Итерации\obj\x86\Debug\Метод Простой Итерации.csprojResolveAssemblyReference.cache

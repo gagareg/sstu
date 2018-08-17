@@ -1,0 +1,16 @@
+C:\Users\150058\AppData\Local\Temporary Projects\Метод Дихотомии\bin\Debug\Метод Дихотомии.exe
+C:\Users\150058\AppData\Local\Temporary Projects\Метод Дихотомии\bin\Debug\Метод Дихотомии.pdb
+C:\Users\150058\AppData\Local\Temporary Projects\Метод Дихотомии\obj\x86\Debug\Метод Дихотомии.exe
+C:\Users\150058\AppData\Local\Temporary Projects\Метод Дихотомии\obj\x86\Debug\Метод Дихотомии.pdb
+C:\Users\150058\documents\visual studio 2010\Projects\Метод Дихотомии\Метод Дихотомии\obj\x86\Debug\Метод Дихотомии.exe
+C:\Users\150058\documents\visual studio 2010\Projects\Метод Дихотомии\Метод Дихотомии\obj\x86\Debug\Метод Дихотомии.pdb
+C:\Users\150058\documents\visual studio 2010\Projects\Метод Дихотомии\Метод Дихотомии\bin\Debug\Метод Дихотомии.exe
+C:\Users\150058\documents\visual studio 2010\Projects\Метод Дихотомии\Метод Дихотомии\bin\Debug\Метод Дихотомии.pdb
+C:\Users\150058\documents\visual studio 2010\Projects\Метод Дихотомии\Метод Дихотомии\obj\x86\Debug\Метод Дихотомии.csprojResolveAssemblyReference.cache
+C:\Users\Microalab\Desktop\Флешка\4 задание\Метод Дихотомии\Метод Дихотомии\bin\Debug\Метод Дихотомии.exe.config
+C:\Users\Microalab\Desktop\Флешка\4 задание\Метод Дихотомии\Метод Дихотомии\bin\Debug\Метод Дихотомии.exe
+C:\Users\Microalab\Desktop\Флешка\4 задание\Метод Дихотомии\Метод Дихотомии\bin\Debug\Метод Дихотомии.pdb
+C:\Users\Microalab\Desktop\Флешка\4 задание\Метод Дихотомии\Метод Дихотомии\obj\x86\Debug\Метод Дихотомии.csprojResolveAssemblyReference.cache
+C:\Users\Microalab\Desktop\Флешка\4 задание\Метод Дихотомии\Метод Дихотомии\obj\x86\Debug\Метод Дихотомии.csproj.CoreCompileInputs.cache
+C:\Users\Microalab\Desktop\Флешка\4 задание\Метод Дихотомии\Метод Дихотомии\obj\x86\Debug\Метод Дихотомии.exe
+C:\Users\Microalab\Desktop\Флешка\4 задание\Метод Дихотомии\Метод Дихотомии\obj\x86\Debug\Метод Дихотомии.pdb

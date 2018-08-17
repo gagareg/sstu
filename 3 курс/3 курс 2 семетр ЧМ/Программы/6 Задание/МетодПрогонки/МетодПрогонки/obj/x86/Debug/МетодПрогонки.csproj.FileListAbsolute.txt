@@ -1,0 +1,8 @@
+C:\Users\150058\AppData\Local\Temporary Projects\МетодПрогонки\bin\Debug\МетодПрогонки.exe
+C:\Users\150058\AppData\Local\Temporary Projects\МетодПрогонки\bin\Debug\МетодПрогонки.pdb
+C:\Users\150058\AppData\Local\Temporary Projects\МетодПрогонки\obj\x86\Debug\МетодПрогонки.exe
+C:\Users\150058\AppData\Local\Temporary Projects\МетодПрогонки\obj\x86\Debug\МетодПрогонки.pdb
+C:\Users\150058\Documents\Visual Studio 2010\Projects\МетодПрогонки\МетодПрогонки\obj\x86\Debug\МетодПрогонки.exe
+C:\Users\150058\Documents\Visual Studio 2010\Projects\МетодПрогонки\МетодПрогонки\obj\x86\Debug\МетодПрогонки.pdb
+C:\Users\150058\Documents\Visual Studio 2010\Projects\МетодПрогонки\МетодПрогонки\bin\Debug\МетодПрогонки.exe
+C:\Users\150058\Documents\Visual Studio 2010\Projects\МетодПрогонки\МетодПрогонки\bin\Debug\МетодПрогонки.pdb

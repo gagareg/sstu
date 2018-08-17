@@ -1,0 +1,15 @@
+c:\users\gagar\documents\visual studio 2015\Projects\4\4\bin\Debug\4.exe.config
+c:\users\gagar\documents\visual studio 2015\Projects\4\4\bin\Debug\4.exe
+c:\users\gagar\documents\visual studio 2015\Projects\4\4\bin\Debug\4.pdb
+c:\users\gagar\documents\visual studio 2015\Projects\4\4\obj\Debug\4.csprojResolveAssemblyReference.cache
+c:\users\gagar\documents\visual studio 2015\Projects\4\4\obj\Debug\4.exe
+c:\users\gagar\documents\visual studio 2015\Projects\4\4\obj\Debug\4.pdb
+C:\Users\gagar\Desktop\C sharp\17\4\4\bin\Debug\4.exe.config
+C:\Users\gagar\Desktop\C sharp\17\4\4\obj\Debug\4.exe
+C:\Users\gagar\Desktop\C sharp\17\4\4\obj\Debug\4.pdb
+C:\Users\gagar\Desktop\C sharp\17\4\4\bin\Debug\4.exe
+C:\Users\gagar\Desktop\C sharp\17\4\4\bin\Debug\4.pdb
+C:\Users\gagar\Desktop\C sharp\17\4\4\obj\Debug\4.csprojResolveAssemblyReference.cache
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\17\4\4\bin\Debug\4.exe.config
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\17\4\4\obj\Debug\4.exe
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\17\4\4\obj\Debug\4.pdb

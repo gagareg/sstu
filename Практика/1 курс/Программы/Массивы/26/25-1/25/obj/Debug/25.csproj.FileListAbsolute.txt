@@ -1,0 +1,9 @@
+c:\users\gagar\documents\visual studio 2015\Projects\25\25\bin\Debug\25.exe.config
+c:\users\gagar\documents\visual studio 2015\Projects\25\25\bin\Debug\25.exe
+c:\users\gagar\documents\visual studio 2015\Projects\25\25\bin\Debug\25.pdb
+c:\users\gagar\documents\visual studio 2015\Projects\25\25\obj\Debug\25.exe
+c:\users\gagar\documents\visual studio 2015\Projects\25\25\obj\Debug\25.pdb
+c:\users\gagar\documents\visual studio 2015\Projects\25\25\obj\Debug\25.csprojResolveAssemblyReference.cache
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Массивы\26\25-1\25\bin\Debug\25.exe.config
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Массивы\26\25-1\25\obj\Debug\25.exe
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Массивы\26\25-1\25\obj\Debug\25.pdb

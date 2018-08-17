@@ -1,0 +1,12 @@
+c:\users\gagar\documents\visual studio 2015\Projects\95\95\bin\Debug\95.exe.config
+c:\users\gagar\documents\visual studio 2015\Projects\95\95\bin\Debug\95.exe
+c:\users\gagar\documents\visual studio 2015\Projects\95\95\bin\Debug\95.pdb
+c:\users\gagar\documents\visual studio 2015\Projects\95\95\obj\Debug\95.csprojResolveAssemblyReference.cache
+c:\users\gagar\documents\visual studio 2015\Projects\95\95\obj\Debug\95.exe
+c:\users\gagar\documents\visual studio 2015\Projects\95\95\obj\Debug\95.pdb
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\95\95\95\bin\Debug\95.exe.config
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\95\95\95\obj\Debug\95.exe
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\95\95\95\obj\Debug\95.pdb
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\95\95\95\bin\Debug\95.exe
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\95\95\95\bin\Debug\95.pdb
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\95\95\95\obj\Debug\95.csprojResolveAssemblyReference.cache

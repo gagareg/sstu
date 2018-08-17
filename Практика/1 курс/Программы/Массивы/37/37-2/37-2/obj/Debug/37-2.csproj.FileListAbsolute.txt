@@ -1,0 +1,12 @@
+c:\users\gagar\documents\visual studio 2015\Projects\37-2\37-2\bin\Debug\37-2.exe.config
+c:\users\gagar\documents\visual studio 2015\Projects\37-2\37-2\obj\Debug\37-2.csprojResolveAssemblyReference.cache
+c:\users\gagar\documents\visual studio 2015\Projects\37-2\37-2\bin\Debug\37-2.exe
+c:\users\gagar\documents\visual studio 2015\Projects\37-2\37-2\bin\Debug\37-2.pdb
+c:\users\gagar\documents\visual studio 2015\Projects\37-2\37-2\obj\Debug\37-2.exe
+c:\users\gagar\documents\visual studio 2015\Projects\37-2\37-2\obj\Debug\37-2.pdb
+C:\Users\gagar\Documents\Visual Studio 2015\Projects\37\37-2\37-2\bin\Debug\37-2.exe.config
+C:\Users\gagar\Documents\Visual Studio 2015\Projects\37\37-2\37-2\obj\Debug\37-2.exe
+C:\Users\gagar\Documents\Visual Studio 2015\Projects\37\37-2\37-2\obj\Debug\37-2.pdb
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Массивы\37\37-2\37-2\bin\Debug\37-2.exe.config
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Массивы\37\37-2\37-2\obj\Debug\37-2.exe
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Массивы\37\37-2\37-2\obj\Debug\37-2.pdb

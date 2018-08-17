@@ -1,0 +1,7 @@
+C:\Users\gagareg\source\repos\Маленький Гаус 3\Маленький Гаус 3\bin\Debug\Маленький Гаус 3.exe.config
+C:\Users\gagareg\source\repos\Маленький Гаус 3\Маленький Гаус 3\bin\Debug\Маленький Гаус 3.exe
+C:\Users\gagareg\source\repos\Маленький Гаус 3\Маленький Гаус 3\bin\Debug\Маленький Гаус 3.pdb
+C:\Users\gagareg\source\repos\Маленький Гаус 3\Маленький Гаус 3\obj\Debug\Маленький Гаус 3.csprojResolveAssemblyReference.cache
+C:\Users\gagareg\source\repos\Маленький Гаус 3\Маленький Гаус 3\obj\Debug\Маленький Гаус 3.csproj.CoreCompileInputs.cache
+C:\Users\gagareg\source\repos\Маленький Гаус 3\Маленький Гаус 3\obj\Debug\Маленький Гаус 3.exe
+C:\Users\gagareg\source\repos\Маленький Гаус 3\Маленький Гаус 3\obj\Debug\Маленький Гаус 3.pdb

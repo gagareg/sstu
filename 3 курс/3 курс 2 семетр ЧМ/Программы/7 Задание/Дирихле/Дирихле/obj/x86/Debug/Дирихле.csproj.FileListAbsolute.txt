@@ -1,0 +1,7 @@
+C:\Users\150058\documents\visual studio 2010\Projects\Дирихле\Дирихле\bin\Debug\Дирихле.exe
+C:\Users\150058\documents\visual studio 2010\Projects\Дирихле\Дирихле\bin\Debug\Дирихле.pdb
+C:\Users\150058\documents\visual studio 2010\Projects\Дирихле\Дирихле\obj\x86\Debug\Дирихле.csprojResolveAssemblyReference.cache
+C:\Users\150058\documents\visual studio 2010\Projects\Дирихле\Дирихле\obj\x86\Debug\Дирихле.exe
+C:\Users\150058\documents\visual studio 2010\Projects\Дирихле\Дирихле\obj\x86\Debug\Дирихле.pdb
+D:\Дерьмо\Дирихле\Дирихле\obj\x86\Debug\Дирихле.exe
+D:\Дерьмо\Дирихле\Дирихле\obj\x86\Debug\Дирихле.pdb

@@ -1,0 +1,15 @@
+c:\users\gagar\documents\visual studio 2015\Projects\83\83\bin\Debug\83.exe.config
+c:\users\gagar\documents\visual studio 2015\Projects\83\83\bin\Debug\83.exe
+c:\users\gagar\documents\visual studio 2015\Projects\83\83\bin\Debug\83.pdb
+c:\users\gagar\documents\visual studio 2015\Projects\83\83\obj\Debug\83.exe
+c:\users\gagar\documents\visual studio 2015\Projects\83\83\obj\Debug\83.pdb
+c:\users\gagar\documents\visual studio 2015\Projects\83\83\obj\Debug\83.csprojResolveAssemblyReference.cache
+C:\Users\gagar\Desktop\C sharp\83\83\83\bin\Debug\83.exe.config
+C:\Users\gagar\Desktop\C sharp\83\83\83\obj\Debug\83.exe
+C:\Users\gagar\Desktop\C sharp\83\83\83\obj\Debug\83.pdb
+C:\Users\gagar\Desktop\C sharp\83\83\83\bin\Debug\83.exe
+C:\Users\gagar\Desktop\C sharp\83\83\83\bin\Debug\83.pdb
+C:\Users\gagar\Desktop\C sharp\83\83\83\obj\Debug\83.csprojResolveAssemblyReference.cache
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\83\83\83\bin\Debug\83.exe.config
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\83\83\83\obj\Debug\83.exe
+C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Основы\83\83\83\obj\Debug\83.pdb

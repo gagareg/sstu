@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{5E3E143E-8676-418C-9258-34E056241F32}|Default" StartupItem="CH-M-1/CH-M-1.csproj">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CH-M-1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
