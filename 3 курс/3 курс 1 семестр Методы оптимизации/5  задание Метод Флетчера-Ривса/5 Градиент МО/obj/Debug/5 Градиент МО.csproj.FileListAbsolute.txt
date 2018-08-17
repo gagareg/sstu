@@ -1,7 +1,0 @@
-C:\Users\Microalab\source\repos\5 Градиент МО\5 Градиент МО\obj\Debug\5 Градиент МО.csprojResolveAssemblyReference.cache
-C:\Users\Microalab\source\repos\5 Градиент МО\5 Градиент МО\obj\Debug\5 Градиент МО.csproj.CoreCompileInputs.cache
-C:\Users\Microalab\source\repos\5 Градиент МО\5 Градиент МО\bin\Debug\5 Градиент МО.exe.config
-C:\Users\Microalab\source\repos\5 Градиент МО\5 Градиент МО\bin\Debug\5 Градиент МО.exe
-C:\Users\Microalab\source\repos\5 Градиент МО\5 Градиент МО\bin\Debug\5 Градиент МО.pdb
-C:\Users\Microalab\source\repos\5 Градиент МО\5 Градиент МО\obj\Debug\5 Градиент МО.exe
-C:\Users\Microalab\source\repos\5 Градиент МО\5 Градиент МО\obj\Debug\5 Градиент МО.pdb

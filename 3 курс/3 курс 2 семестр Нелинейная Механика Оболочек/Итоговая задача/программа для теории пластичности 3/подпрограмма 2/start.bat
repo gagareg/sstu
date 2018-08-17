@@ -1,1 +1,0 @@
-start q0_.exe -@ q.opt

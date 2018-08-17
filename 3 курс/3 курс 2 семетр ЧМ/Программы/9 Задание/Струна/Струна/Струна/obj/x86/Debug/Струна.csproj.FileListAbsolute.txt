@@ -1,6 +1,0 @@
-C:\Users\Денис\Google Диск\Струна\Струна\bin\Debug\Струна.exe
-C:\Users\Денис\Google Диск\Струна\Струна\bin\Debug\Струна.pdb
-C:\Users\Денис\Google Диск\Струна\Струна\obj\x86\Debug\Струна.csprojResolveAssemblyReference.cache
-C:\Users\Денис\Google Диск\Струна\Струна\obj\x86\Debug\Струна.csproj.CoreCompileInputs.cache
-C:\Users\Денис\Google Диск\Струна\Струна\obj\x86\Debug\Струна.exe
-C:\Users\Денис\Google Диск\Струна\Струна\obj\x86\Debug\Струна.pdb

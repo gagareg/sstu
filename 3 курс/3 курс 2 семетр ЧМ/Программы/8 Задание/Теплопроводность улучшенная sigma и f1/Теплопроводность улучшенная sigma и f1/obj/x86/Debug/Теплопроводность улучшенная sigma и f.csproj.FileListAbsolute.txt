@@ -1,4 +1,0 @@
-C:\Users\150058\AppData\Local\Temporary Projects\Теплопроводность улучшенная sigma и f\bin\Debug\Теплопроводность улучшенная sigma и f.exe
-C:\Users\150058\AppData\Local\Temporary Projects\Теплопроводность улучшенная sigma и f\bin\Debug\Теплопроводность улучшенная sigma и f.pdb
-C:\Users\150058\AppData\Local\Temporary Projects\Теплопроводность улучшенная sigma и f\obj\x86\Debug\Теплопроводность улучшенная sigma и f.exe
-C:\Users\150058\AppData\Local\Temporary Projects\Теплопроводность улучшенная sigma и f\obj\x86\Debug\Теплопроводность улучшенная sigma и f.pdb

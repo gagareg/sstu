@@ -1,8 +1,0 @@
-C:\Users\150058\AppData\Local\Temporary Projects\Струна2\bin\Debug\Струна2.exe
-C:\Users\150058\AppData\Local\Temporary Projects\Струна2\bin\Debug\Струна2.pdb
-C:\Users\150058\AppData\Local\Temporary Projects\Струна2\obj\x86\Debug\Струна2.exe
-C:\Users\150058\AppData\Local\Temporary Projects\Струна2\obj\x86\Debug\Струна2.pdb
-D:\Чм\Струна2\Струна2\bin\Debug\Струна2.exe
-D:\Чм\Струна2\Струна2\bin\Debug\Струна2.pdb
-D:\Чм\Струна2\Струна2\obj\x86\Debug\Струна2.exe
-D:\Чм\Струна2\Струна2\obj\x86\Debug\Струна2.pdb

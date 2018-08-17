@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\петрович\петрович\bin\Debug\петрович.exe.config
-C:\Users\User\source\repos\петрович\петрович\bin\Debug\петрович.exe
-C:\Users\User\source\repos\петрович\петрович\bin\Debug\петрович.pdb
-C:\Users\User\source\repos\петрович\петрович\obj\Debug\петрович.csprojResolveAssemblyReference.cache
-C:\Users\User\source\repos\петрович\петрович\obj\Debug\петрович.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\петрович\петрович\obj\Debug\петрович.exe
-C:\Users\User\source\repos\петрович\петрович\obj\Debug\петрович.pdb

@@ -1,9 +1,0 @@
-c:\users\gagar\documents\visual studio 2015\Projects\23-2\23-2\bin\Debug\23-2.exe.config
-c:\users\gagar\documents\visual studio 2015\Projects\23-2\23-2\bin\Debug\23-2.exe
-c:\users\gagar\documents\visual studio 2015\Projects\23-2\23-2\bin\Debug\23-2.pdb
-c:\users\gagar\documents\visual studio 2015\Projects\23-2\23-2\obj\Debug\23-2.exe
-c:\users\gagar\documents\visual studio 2015\Projects\23-2\23-2\obj\Debug\23-2.pdb
-c:\users\gagar\documents\visual studio 2015\Projects\23-2\23-2\obj\Debug\23-2.csprojResolveAssemblyReference.cache
-C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Массивы\23\23-2\23-2\bin\Debug\23-2.exe.config
-C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Массивы\23\23-2\23-2\obj\Debug\23-2.exe
-C:\Users\gagar\Desktop\Практика\Самарский Игорь Александрович\Массивы\23\23-2\23-2\obj\Debug\23-2.pdb

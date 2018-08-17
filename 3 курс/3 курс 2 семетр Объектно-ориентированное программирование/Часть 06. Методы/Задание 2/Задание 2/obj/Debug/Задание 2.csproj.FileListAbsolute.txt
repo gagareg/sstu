@@ -1,7 +1,0 @@
-C:\Users\Microalab\source\repos\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
-C:\Users\Microalab\source\repos\Задание 2\Задание 2\bin\Debug\Задание 2.exe.config
-C:\Users\Microalab\source\repos\Задание 2\Задание 2\bin\Debug\Задание 2.exe
-C:\Users\Microalab\source\repos\Задание 2\Задание 2\bin\Debug\Задание 2.pdb
-C:\Users\Microalab\source\repos\Задание 2\Задание 2\obj\Debug\Задание 2.exe
-C:\Users\Microalab\source\repos\Задание 2\Задание 2\obj\Debug\Задание 2.pdb
-C:\Users\Microalab\source\repos\Задание 2\Задание 2\obj\Debug\Задание 2.csprojResolveAssemblyReference.cache

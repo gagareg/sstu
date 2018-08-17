@@ -1,7 +1,0 @@
-C:\Users\gagareg\source\repos\Маленький Гаус 4\Маленький Гаус 4\bin\Debug\Маленький Гаус 4.exe.config
-C:\Users\gagareg\source\repos\Маленький Гаус 4\Маленький Гаус 4\bin\Debug\Маленький Гаус 4.exe
-C:\Users\gagareg\source\repos\Маленький Гаус 4\Маленький Гаус 4\bin\Debug\Маленький Гаус 4.pdb
-C:\Users\gagareg\source\repos\Маленький Гаус 4\Маленький Гаус 4\obj\Debug\Маленький Гаус 4.csproj.CoreCompileInputs.cache
-C:\Users\gagareg\source\repos\Маленький Гаус 4\Маленький Гаус 4\obj\Debug\Маленький Гаус 4.exe
-C:\Users\gagareg\source\repos\Маленький Гаус 4\Маленький Гаус 4\obj\Debug\Маленький Гаус 4.pdb
-C:\Users\gagareg\source\repos\Маленький Гаус 4\Маленький Гаус 4\obj\Debug\Маленький Гаус 4.csprojResolveAssemblyReference.cache

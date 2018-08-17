@@ -1,7 +1,0 @@
-c:\users\user\source\repos\3.4\3.4\bin\Debug\3.4.exe.config
-c:\users\user\source\repos\3.4\3.4\bin\Debug\3.4.exe
-c:\users\user\source\repos\3.4\3.4\bin\Debug\3.4.pdb
-c:\users\user\source\repos\3.4\3.4\obj\Debug\3.4.csprojResolveAssemblyReference.cache
-c:\users\user\source\repos\3.4\3.4\obj\Debug\3.4.csproj.CoreCompileInputs.cache
-c:\users\user\source\repos\3.4\3.4\obj\Debug\3.4.exe
-c:\users\user\source\repos\3.4\3.4\obj\Debug\3.4.pdb

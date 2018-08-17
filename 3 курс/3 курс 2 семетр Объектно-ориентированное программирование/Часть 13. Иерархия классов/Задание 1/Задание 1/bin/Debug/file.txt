@@ -1,8 +1,0 @@
-rectangle
-2
-2
-circle
-5
-triangle
-10
-5

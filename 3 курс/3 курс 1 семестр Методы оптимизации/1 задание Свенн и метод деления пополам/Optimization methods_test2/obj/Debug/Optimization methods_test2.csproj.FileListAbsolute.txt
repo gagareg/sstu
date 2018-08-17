@@ -1,7 +1,0 @@
-C:\Users\Microalab\source\repos\Optimization methods_test2\Optimization methods_test2\bin\Debug\Optimization methods_test2.exe.config
-C:\Users\Microalab\source\repos\Optimization methods_test2\Optimization methods_test2\bin\Debug\Optimization methods_test2.exe
-C:\Users\Microalab\source\repos\Optimization methods_test2\Optimization methods_test2\bin\Debug\Optimization methods_test2.pdb
-C:\Users\Microalab\source\repos\Optimization methods_test2\Optimization methods_test2\obj\Debug\Optimization methods_test2.csprojResolveAssemblyReference.cache
-C:\Users\Microalab\source\repos\Optimization methods_test2\Optimization methods_test2\obj\Debug\Optimization methods_test2.csproj.CoreCompileInputs.cache
-C:\Users\Microalab\source\repos\Optimization methods_test2\Optimization methods_test2\obj\Debug\Optimization methods_test2.exe
-C:\Users\Microalab\source\repos\Optimization methods_test2\Optimization methods_test2\obj\Debug\Optimization methods_test2.pdb

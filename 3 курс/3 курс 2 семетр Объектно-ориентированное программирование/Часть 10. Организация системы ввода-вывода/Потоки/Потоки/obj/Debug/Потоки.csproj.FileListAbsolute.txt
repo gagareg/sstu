@@ -1,7 +1,0 @@
-C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки\Потоки\bin\Debug\Потоки.exe.config
-C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки\Потоки\bin\Debug\Потоки.exe
-C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки\Потоки\bin\Debug\Потоки.pdb
-C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки\Потоки\obj\Debug\Потоки.csprojResolveAssemblyReference.cache
-C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки\Потоки\obj\Debug\Потоки.csproj.CoreCompileInputs.cache
-C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки\Потоки\obj\Debug\Потоки.exe
-C:\Users\gagareg\Desktop\Программирование Ершов\Потоки\Потоки\Потоки\obj\Debug\Потоки.pdb

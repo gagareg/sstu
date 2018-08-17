@@ -1,7 +1,0 @@
-C:\Users\gagareg\source\repos\Интегралы\Интегралы\bin\Debug\Интегралы.exe.config
-C:\Users\gagareg\source\repos\Интегралы\Интегралы\bin\Debug\Интегралы.exe
-C:\Users\gagareg\source\repos\Интегралы\Интегралы\bin\Debug\Интегралы.pdb
-C:\Users\gagareg\source\repos\Интегралы\Интегралы\obj\Debug\Интегралы.csprojResolveAssemblyReference.cache
-C:\Users\gagareg\source\repos\Интегралы\Интегралы\obj\Debug\Интегралы.csproj.CoreCompileInputs.cache
-C:\Users\gagareg\source\repos\Интегралы\Интегралы\obj\Debug\Интегралы.exe
-C:\Users\gagareg\source\repos\Интегралы\Интегралы\obj\Debug\Интегралы.pdb
